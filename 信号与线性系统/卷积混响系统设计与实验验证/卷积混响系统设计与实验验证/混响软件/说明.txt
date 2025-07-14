@@ -1,0 +1,3 @@
+本文件包含原声 12月5日 上午9点06分.m4a，三种场景的IR文件 IR寝室2.wav，C117.mp3，stair.wav及三种音质 玻璃.m4a，金属0.m4a，木头.m4a
+MATLABapp app1.mlapp及内置封装应用reverberation.mlappinstall
+经测试，app1.mlapp可能因电脑配置环境不同无法运行，但是reverberation.mlappinstall是可以运行的
